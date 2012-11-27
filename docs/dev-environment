@@ -1,0 +1,7 @@
+# Development Environment
+# This is a pip requirements file for my standard development environment.
+# Nothing here is required, but it will certainly make your like a lot
+# easier.
+nose
+coverage
+setuptools_hg
