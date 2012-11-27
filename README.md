@@ -3,7 +3,7 @@
 =============
 1. Usage
    ::
-      http://cepy.herokuapp.com/address/<cep>
+      ```http://cepy.herokuapp.com/address/<cep>```
 
 ...
 Enjoy!
